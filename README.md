@@ -43,7 +43,7 @@ You'll find the plugin at **Admin Sidebar → Bulk Slug Adder**
 ### All Posts Mode
 
 1. Select your **Post Type** from the dropdown
-2. Enter the **Suffix** you want to append (e.g. `-07510635870`)
+2. Enter the **Suffix** you want to append (e.g. `-Add your new Suffix`)
 3. Check the **SQL Preview** to confirm the query
 4. Click **👀 Preview (first 10)** to verify slugs look correct
 5. Click **⚡ Run Now** → confirm the dialog → watch the progress bar
@@ -127,7 +127,6 @@ Posts already ending with the suffix are **skipped automatically**.
 ## Author
 
 **Shohidul Dev** — Shopify & WordPress Developer  
-Agency: [InsoSpark Agency](https://insospark.com)  
 GitHub: [@shohiduldev](https://github.com/shohiduldev)  
 
 ---
